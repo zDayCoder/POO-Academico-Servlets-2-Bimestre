@@ -1,0 +1,10 @@
+<%-- any content can be specified here e.g.: --%>
+<%@ page pageEncoding="UTF-8" %>
+<center>
+    <h2 class="card-title mt-3">{Nome do seu aplicativo (headers.jspf)}</h2>
+    <ul class="list-group"><!--é bom alterar algo do bootstrap também...-->
+    
+        <li class="list-group-item"><a href="/Servlets/index.jsp">Inicio</a></li>
+        <li class="list-group-item"><a href="/Servlets/disciplina.jsp">Disciplina</a></li>
+    </ul>
+</center>
