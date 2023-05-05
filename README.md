@@ -1,6 +1,6 @@
 <h1 align="center">Programação Orientada a Objetos</h1>
 
-![Badge de Creation = march](https://img.shields.io/badge/criação-março-blue?style=for-the-badge) ![Badge do status = in progress](https://img.shields.io/badge/STATUS-Em%20Andamento-yellow?style=for-the-badge)
+![Badge de Creation = march](https://img.shields.io/badge/criação-abril-blue?style=for-the-badge) ![Badge do status = in progress](https://img.shields.io/badge/STATUS-Em%20Andamento-yellow?style=for-the-badge)
 
 ## Descrição do projeto
 
